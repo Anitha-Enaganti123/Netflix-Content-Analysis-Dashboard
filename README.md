@@ -1,6 +1,3 @@
-Super nanna 👌
-Here is a professional, clean README.md you can directly use for your Netflix Content Analysis Dashboard project on GitHub.
-
 📊 Netflix Content Analysis Dashboard
 📌 Project Overview
 
