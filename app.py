@@ -7,7 +7,7 @@ import seaborn as sns
 st.set_page_config(page_title="Netflix Content Analysis", layout="wide")
 
 # Title
-st.title("🎬 Netflix Content Analysis Dashboard")
+st.title("Netflix Content Analysis Dashboard")
 
 # Load data
 @st.cache_data
